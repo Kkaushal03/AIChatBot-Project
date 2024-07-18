@@ -12,7 +12,7 @@ AIChatBot is a web application built using the MERN stack (MongoDB, Express.js, 
   - **signup**:  Create a new account to access the chatbot.
   - **Ask Questions**: Interact with the AI to get responses to your queries.
   - **Delete Conversation**: Remove  conversations or messages.
-  - **Logout**:Securely end your session.
+  - **Logout**: Securely end your session.
   
 
 ###  Technologies used
@@ -51,6 +51,8 @@ This project was created using the following technologies.
    
 ####  OpenAi
  - [OpenAi ](https://platform.openai.com/playground/chat) - For Api KEY 
+
+
    #Screenshots:
 ![image](https://github.com/user-attachments/assets/2579f230-de3c-45f6-abc2-d56e7d83be10)
 ![image](https://github.com/user-attachments/assets/d39b57ac-64ae-43f9-af97-37b6579b62f9)
