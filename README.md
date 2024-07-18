@@ -50,7 +50,7 @@ This project was created using the following technologies.
  - [MongoDB ](https://www.mongodb.com/) - Free cloud service to store MongoDB collections.
    
 ####  OpenAi
- - [OpenAi ](https://platform.openai.com/playground/chat) - For Api KEY 
+ - [OpenAi ](https://platform.openai.com/playground/chat) - For Api KEY and organisation id
 
 
    #Screenshots:
