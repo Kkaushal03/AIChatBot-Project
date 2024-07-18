@@ -49,20 +49,15 @@ This project was created using the following technologies.
 
  - [MongoDB ](https://www.mongodb.com/) - Free cloud service to store MongoDB collections.
    
-####  Database 
+####  OpenAi
  - [OpenAi ](https://platform.openai.com/playground/chat) - For Api KEY 
    #Screenshots:
-![1](https://github.com/Kkaushal03/mern-deploy/assets/112949511/af2fb4fb-24e2-4d1b-8dc2-9fb605ef1ad9)
-![11](https://github.com/Kkaushal03/mern-deploy/assets/112949511/e9a9cb63-e118-47eb-bab5-7881c921ce89)
-![2](https://github.com/Kkaushal03/mern-deploy/assets/112949511/b57b6ed0-a02f-4cd6-9206-b0c84369ce2e)
-![3](https://github.com/Kkaushal03/mern-deploy/assets/112949511/a304e91e-b286-4294-9aee-bbd90610eee9)
+![image](https://github.com/user-attachments/assets/2579f230-de3c-45f6-abc2-d56e7d83be10)
+![image](https://github.com/user-attachments/assets/d39b57ac-64ae-43f9-af97-37b6579b62f9)
+![image](https://github.com/user-attachments/assets/710e58b5-a88e-46ee-947f-3985c29ffcb9)
+![image](https://github.com/user-attachments/assets/b817debf-4983-460f-b39e-b5511c170ab6)
+![image](https://github.com/user-attachments/assets/74d49511-dfff-42b3-9f15-6df93ddcb678)
 
-![4](https://github.com/Kkaushal03/mern-deploy/assets/112949511/7e7218f3-e7c3-412d-8093-f046cd1d7d7c)
-![6](https://github.com/Kkaushal03/mern-deploy/assets/112949511/69b78469-b302-4450-9f72-71c6a3651d95)
-![7](https://github.com/Kkaushal03/mern-deploy/assets/112949511/814358d6-4440-484e-83f6-5e7cc2ac8d47)
-![8](https://github.com/Kkaushal03/mern-deploy/assets/112949511/7191a9c3-bbbd-4382-86c6-8e23dd443943)
-![10](https://github.com/Kkaushal03/mern-deploy/assets/112949511/84a17101-066f-4edb-9be9-dfe8ac9da378)
-   
 
 
 
